@@ -1,0 +1,3 @@
+/home/alexis/CLionProjects/ProjetOS/ProjetOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexis/CLionProjects/ProjetOS/ProjetOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexis/CLionProjects/ProjetOS/ProjetOS/cmake-build-debug/CMakeFiles/ProjetOS.dir
