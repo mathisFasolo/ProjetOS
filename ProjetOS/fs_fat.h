@@ -49,6 +49,7 @@
 
 
 //Fonctions fournis par l'OS permettant la lecture du boot média
+//fonction de type read_int13h
 extern int LectureBootMedia(unsigned long sector, unsigned char num);
 extern int LectureBootMediaAvecOffset(unsigned long sector, unsigned char num, unsigned long memoffset);
 extern int EcritureBootMedia(unsigned long sector, unsigned char num);
